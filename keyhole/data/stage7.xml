@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage7>
+  <maxWeakCount>21</maxWeakCount>
+  <stageThreshold>-8.4167373180389404e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 32324 1.6302995209116489e-04</internalNodes>
+      <leafValues>
+        -1.4162161946296692e-01 6.0369229316711426e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 54821 -7.7872620895504951e-03</internalNodes>
+      <leafValues>
+        5.2401220798492432e-01 -1.9887112081050873e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 59375 -6.9980022090021521e-05</internalNodes>
+      <leafValues>
+        2.1699079871177673e-01 -5.1312553882598877e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 75988 3.2706037163734436e-02</internalNodes>
+      <leafValues>
+        -1.9947482645511627e-01 4.7101515531539917e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 72039 -3.2154039945453405e-04</internalNodes>
+      <leafValues>
+        2.6095896959304810e-01 -3.7691265344619751e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 74979 3.0914731323719025e-03</internalNodes>
+      <leafValues>
+        -1.9656161963939667e-01 4.1699260473251343e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 42175 3.4919739700853825e-03</internalNodes>
+      <leafValues>
+        -1.3277302682399750e-01 5.9399211406707764e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 41748 -1.7265431233681738e-04</internalNodes>
+      <leafValues>
+        -5.7521897554397583e-01 1.7530870437622070e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 41748 1.4121844433248043e-03</internalNodes>
+      <leafValues>
+        8.1776939332485199e-02 -7.6907086372375488e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 44491 -6.8912934511899948e-04</internalNodes>
+      <leafValues>
+        3.4593620896339417e-01 -2.4860879778862000e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 482 -4.8973232507705688e-02</internalNodes>
+      <leafValues>
+        3.5876050591468811e-01 -2.4536994099617004e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 40259 2.5830082595348358e-02</internalNodes>
+      <leafValues>
+        -1.4422444999217987e-01 6.8245947360992432e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 54593 2.2896863520145416e-03</internalNodes>
+      <leafValues>
+        -2.6618963479995728e-01 3.5438233613967896e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 50691 3.3209577202796936e-02</internalNodes>
+      <leafValues>
+        1.3505768775939941e-01 -7.6968628168106079e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 69604 -5.3340125305112451e-05</internalNodes>
+      <leafValues>
+        1.7964692413806915e-01 -4.4899499416351318e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 69428 -1.0565387085080147e-02</internalNodes>
+      <leafValues>
+        -7.4815511703491211e-01 1.0234772413969040e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 61457 -3.9364192634820938e-03</internalNodes>
+      <leafValues>
+        4.0387102961540222e-01 -2.2752998769283295e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 59314 9.0306322090327740e-04</internalNodes>
+      <leafValues>
+        1.2849862873554230e-01 -6.7912846803665161e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 25422 2.2796059492975473e-03</internalNodes>
+      <leafValues>
+        1.0852691531181335e-01 -7.0345878601074219e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 36568 -4.6305991709232330e-03</internalNodes>
+      <leafValues>
+        4.0687906742095947e-01 -1.9345553219318390e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 31586 -1.1047571897506714e-03</internalNodes>
+      <leafValues>
+        -6.4743429422378540e-01 1.3298590481281281e-01</leafValues></_></weakClassifiers></stage7>
+</opencv_storage>
